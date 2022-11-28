@@ -1,2 +1,6 @@
-# desafio-dio-github-aprendendo
-Desafio de Projeto - Git/Github Aprendendo 
+# Desafio de Projeto Git/Github-aprendendo
+Repositório criado para o Desafio de Projeto
+
+## Links Úteis
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+
